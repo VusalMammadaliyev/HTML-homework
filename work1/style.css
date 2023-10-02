@@ -1,0 +1,23 @@
+div{
+    display: inline-block;
+    border: 10px solid red;
+    border-radius: 60%;
+    padding: 150px;
+    margin-right: -75px;
+}
+
+.circle.yellow{
+    border-color: yellow;
+}
+
+.circle.blue{
+    border-color: blue;
+}
+
+.circle.black{
+    border-color: black;
+}
+
+.circle.green{
+    border-color: green;
+}
