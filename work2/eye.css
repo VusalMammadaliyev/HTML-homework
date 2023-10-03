@@ -1,0 +1,13 @@
+div{
+    display: inline-block;
+    background-color: gray;
+    border: 4px solid rgb(239, 239, 239);
+    border-radius: 50px;
+    margin-right: 35px;
+    margin-left: 35px;
+    padding: 50px;
+}
+
+span h1{
+    padding-left: 170px;
+}
