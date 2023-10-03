@@ -11,3 +11,12 @@ div{
 span h1{
     padding-left: 170px;
 }
+
+* {
+    box-sizing: border-box;
+}
+head{
+    width: 180px;
+    background-color: rgb(196, 196, 196);
+    
+}
