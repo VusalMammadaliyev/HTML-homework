@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;  
+    box-sizing: border-box;
+  }
+  
+  
+  .home {
+  width: 564px;
+  height: 591px;
+  background-color:rgb(172, 189, 189);
+  display: inline-block;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 20px;
+  }
+  
+  
+  .Box{
+      width: 450px;
+      height: 400px;
+      background-color: white;
+      border: 5px solid white;
+      margin-bottom: 150px;
+      margin-left: 100px;
+      margin-top: 20px;
+      display: inline-block;
+  }
+  
+  
+  div.A input{
+      width: 400px;
+      height: 30px;
+      padding: 20px 20px;
+      margin-top: 50px;
+      margin-left: 20px;
+      padding-left: 35px;
+      
+  }
+  
+  div.A img{
+      position: absolute;
+      top: 237px;
+      left: 190px;
+  }
+  
+  div.B input{
+      width: 400px;
+      height: 30px;
+      padding: 20px 20px;
+      margin-top: 20px;
+      margin-left: 20px;
+      padding-left: 35px;
+  }
+  
+  div.B img{
+      position: absolute;
+      top: 286px;
+      left: 190px
+  }
+  
+  div.C input{
+      width: 300px;
+      height: 20px;
+      padding: 15px 15px;
+      margin-top: 15px;
+      margin-left: 19px;
+      padding-left: 32px;
+  }
+  
+  div.C img{
+      position: absolute;
+      top: 334px;
+      left: 190px
+  }
+  
+  div.D input{
+      width: 300px;
+      height: 20px;
+      padding: 15px 15px;
+      margin-top: 15px;
+      margin-left: 19px;
+      padding-left: 32px;
+  }
+  
+  div.D img{
+      position: absolute;
+      top: 382px;
+      left: 190px
+  }
+  
+  div.E textarea{
+      width: 300px;
+      height: 20px;
+      padding: 10px 15px;
+      margin-top: 15px;
+      margin-left: 24px;
+      padding-left: 35px;
+      padding-bottom: 35px;
+      overflow: hidden;
+  }
+  
+  div.E img{
+      position: absolute;
+      top:450px;
+      left: 200px
+  }
+  
+  div.F button{
+      margin-top: 25px;
+      margin-left: 29px;
+      cursor: pointer;
+      padding: 10px 70px;
+      background-color: rgb(193, 203, 212);
+      text-decoration: white;
+  }
